@@ -1,0 +1,3 @@
+Maak via Bootstrap een webpagina (met opmaak) voor een 18+ fuif.
+Vraag aan de bezoekervan de webpagina via een prompt-venster of hij/zij 18 jaar of ouder is.
+Indien de bezoeker tejong is, moet de boodschap “Helaas... Probeer de volgende editie maar opnieuw” verschijnenin een alert-venster

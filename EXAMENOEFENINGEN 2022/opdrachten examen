@@ -1,0 +1,20 @@
+1.  de bezoeker krijgt op de webpagina een hoop spellen te zien met informatie in een unordered list, deze spellen zitten in objecten.
+    als hij op de knop moeilijkheden klikt krijgt hij alle spelnamen en de moeilijkheden.
+    als hij op de knop prijzen klikt krijgt hij alle spelnamen en de prijzen te zien in het vetgedrukt en rood
+
+
+2.  de bezoeker geeft een random zin in in de input. de zin moet meer dan 4 woorden bevatten anders krijgt hij een melding te zien staan dat de zin te weinig woorden heeft. als de zin meer dan 4 woorden bevat word de zin getoont in een alert venster, achter elke woord komt het woord 'BEEP' te staan.
+
+2.  (herexamen): de bezoeker geeft een random zin in in de input. de zin moet meer dan 4 woorden bevatten anders krijgt hij een melding te zien staan dat de zin te weinig woorden heeft. als de zin meer dan 4 woorden bevat word de zin getoont in een alert venster de medeklinkers in hoofdletter en de gewone klinkers in kleine letters.
+
+
+
+3.  maak een mini-rekenmachine waar de bezoeker 2 random getallen ingeeft tussen 0 en 50 in een prompt venster.
+    als 1 van de getallen niet tussen 0 en 50 komt te staan krijgt hij een alert venster te zien dat het nummer niet tussen de 0 en 50 zit.
+    als beide getallen tussen 0 en 50 zitten word het resultaat getoont in een alert venster.
+    de volgende resultaten moeten komen te staan in het alert venster:
+    uitkomst som
+    uitkomst min
+    uitkomst vermenigvuldiging
+    uitkomst deling
+    uitkomst restwaarde

@@ -1,0 +1,3 @@
+Maak een script waarin je aan de bezoeker een random zin vraagt.
+Ga voor deze zin na opwelke locatie de eerste spatie staat en toon de bekomen informatie in een alert-venster.
+Opgelet! Zorg ervoor dat de locatie vanaf positie 1 begint te tellen.
